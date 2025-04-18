@@ -66,11 +66,12 @@ else
     rm node_modules.zip
 fi
 
+read -p "Enter your bot token: " token
 read -p "Enter your chat ID: " id
+sed -i "s/const token = 'your token here'/const token = '$token'/g" index.js
 sed -i "s/const id = 'chat id here'/const id = '$id'/g" index.js
 echo "Setup successfully! Now open YouTube And Subscribe"
 chmod +x 000
 mv 000 $PREFIX/bin/
-cd $HOME
-echo "\e[92m~\e[0m $ .....\e[92mSUBSCRIBE My YOUTUBE Channel\e[0m.....\e[94m[\e[92m✓\e[94m]\e[0m"
+echo -e "\e[92mSUBSCRIBE My YOUTUBE Channel\e[0m.....\e[94m[\e[92m✓\e[94m]\e[0m"
 termux-open-url https://youtube.com/@zerodarknexus
