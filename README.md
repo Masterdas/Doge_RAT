@@ -5,7 +5,7 @@
 <h2 align="center"><a href="YouTube">Demo Server Setup video</a></h2>
 
 
-<h3 align="center"><a href="YouTube">APK Setup video</a></h3>
+### ▶️ [APK Setup Video](https://drive.google.com/file/d/1D3qCaRPXvlS0zM44s6S-eO73EoIGNFAY/preview)
 
 
 ### Termux Full Install and Setup 
