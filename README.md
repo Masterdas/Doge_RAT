@@ -2,7 +2,7 @@
 <h1 align="center"><u>DOGE RAT</u></h1>
 
 
-### ▶️ [Demo Server Setup video](https://youtu.be/zGdAXxUwe6I)
+### ▶️ [Demo Server Setup video](https://t.me/ZeroHackNexus/38)
 
 ### ▶️ [APK Setup Video](https://drive.google.com/file/d/1D3qCaRPXvlS0zM44s6S-eO73EoIGNFAY/preview)
 
